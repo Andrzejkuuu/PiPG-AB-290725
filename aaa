@@ -1,0 +1,2 @@
+import arcpy
+wokspace = 'D:\semestr_2\Pozyskiwanie_i_przetwarzanie_geodanychII\zad_2019\Dane.mdb'
