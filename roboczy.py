@@ -31,7 +31,7 @@ arcpy.Select_analysis(inFeatures, 'BudynekTestowy', where_clause)
 '''
 
 import arcpy
-from math import sqrt, acos, pi, atan, fabs
+from math import sqrt, pi, atan, fabs
 import pandas as pd
 
 def segmentLength(x1, y1, x2, y2):

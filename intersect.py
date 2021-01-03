@@ -1,5 +1,4 @@
 import arcpy
-import sys
 
 def intersect(geometry1, geometry2):
 

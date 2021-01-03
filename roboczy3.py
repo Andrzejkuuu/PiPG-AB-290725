@@ -1,5 +1,5 @@
 import arcpy
-from math import sqrt, acos, pi, atan, fabs
+from math import sqrt, pi, atan, fabs
 import pandas as pd
 from numpy import array
 
