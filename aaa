@@ -1,2 +1,7 @@
 import arcpy
-wokspace = 'D:\semestr_2\Pozyskiwanie_i_przetwarzanie_geodanychII\zad_2019\Dane.mdb'
+wokspace = r'D:/semestr_2/Pozyskiwanie_i_przetwarzanie_geodanychII/zad_2019/Dane.mdb'
+
+for i in range(10):
+    print('a')
+
+parmetr1 = arcpy.GetParameterAsText(0)
